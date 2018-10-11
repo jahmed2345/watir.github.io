@@ -28,3 +28,4 @@ Alternately, you can avoid dealing with drivers entirely and use an online servi
 provider to manage everything for you.
 * [Sauce Labs](https://www.saucelabs.com)
 * [Browser Stack](https://www.browserstack.com)
+* [LambdaTest](https://www.lambdatest.com/)
